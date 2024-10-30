@@ -12,6 +12,7 @@ Este projeto tem como objetivo desenvolver um modelo preditivo para previsão de
 - Statsmodels
 - Seaborn
 - Scikit-learn
+- Keras TensorFlow
 
 # Previsão de Demanda - Séries Temporais
 
